@@ -1,0 +1,73 @@
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2.4rem;
+}
+.card {
+  max-width: 420px;
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  border-radius: 10px;
+  box-shadow:2px 6px 11px 1px rgba(0, 0, 0, 0.4);
+}
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+.header {
+  margin-bottom: 25px;
+  font-size: 1.3rem;
+}
+.input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #d3d3d3;
+}
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+.labeldiv1 {
+  margin-bottom: 25px;
+}
+.labeldiv2 {
+  margin-bottom: 20px;
+  position: relative;
+}
+.signedwrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 12px;
+  border-radius: 5px;
+}
+.signinbtn {
+  display: inline-block;
+  padding: 10px 25px;
+  color: white;
+  background-color: teal;
+  border: none;
+  border-radius: 5px;
+}
+.hr {
+  margin-bottom: 15px;
+  background-color: #d3d3d3;
+}
+.eye {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+}
+.imageWrapper {
+  display: flex;
+  justify-content: center;
+}
+.register {
+  margin-bottom: 10px;
+}
+.link {
+  text-decoration: none;
+}
